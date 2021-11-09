@@ -1,4 +1,4 @@
-apiVersion: helm.fluxcd.io/v2
+apiVersion: helm.fluxcd.io/v3
 kind: HelmRelease
 metadata:
   name: helm-app
