@@ -1,9 +1,0 @@
-apiVersion: source.toolkit.fluxcd.io/v1beta1
-kind: HelmRepository
-metadata:
-  name: helm-app
-  namespace: flux-system
-spec:
-  url: https://akaua.github.io/helm-charts-flux/
-  interval: 1m
-    
