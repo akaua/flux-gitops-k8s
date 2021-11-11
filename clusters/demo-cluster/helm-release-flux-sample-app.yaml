@@ -18,5 +18,5 @@ spec:
     replicaCount: 2
     image:
       repository: 550945418071.dkr.ecr.eu-west-1.amazonaws.com/flux-sample-app
-      tag: main-ebb10086fb454476bf4dc0e8cbcbe57a4f849563
+      tag: main-19fe25d6440ebe3db12da51d472c18929af70c3b
       
